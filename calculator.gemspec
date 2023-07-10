@@ -3,7 +3,7 @@
 require_relative "lib/calculator/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "calculator"
+  spec.name = "aqcalculator"
   spec.version = Calculator::VERSION
   spec.authors = ["Andres Quezada"]
   spec.email = ["andresequez@gmail.com"]
